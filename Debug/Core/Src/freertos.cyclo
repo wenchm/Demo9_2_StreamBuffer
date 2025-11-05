@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:76:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:119:6:AppTask_Show	1
+../Core/Src/freertos.c:136:6:HAL_RTCEx_WakeUpTimerEventCallback	6
+../Core/Src/freertos.c:165:5:__io_putchar	1

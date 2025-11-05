@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:76:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:119:6:AppTask_Show	40	static
+../Core/Src/freertos.c:136:6:HAL_RTCEx_WakeUpTimerEventCallback	72	static,ignoring_inline_asm
+../Core/Src/freertos.c:165:5:__io_putchar	16	static
